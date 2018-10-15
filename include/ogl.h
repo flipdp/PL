@@ -2,9 +2,9 @@ namespace PL
 {
   namespace GFX
   {
-    public class OpenGL
+    class OGL
     {
       
-    }
+    };
   }
 }
